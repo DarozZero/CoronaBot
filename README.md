@@ -26,5 +26,4 @@ Los usarios son estudiantes de 18 a 23 años en su mayoria
 
 5.[Bitacora](https://github.com/DarozZero/CoronaBot/blob/main/Documentacion/1.%20Bitacora.md "Bitacora")
 
-## Prueba de pull 2541
-aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+
