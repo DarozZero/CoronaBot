@@ -32,5 +32,3 @@ Los usuarios son estudiantes de 18 a 23 años en su mayoria tieniendo exepciones
 5.[Bitacora](https://github.com/DarozZero/CoronaBot/blob/main/Documentacion/1.%20Bitacora.md "Bitacora")
 
 6.[Prototipo](https://github.com/DarozZero/CoronaBot/blob/main/Documentacion/Prototipo.md "Prototipo")
-
-7.[Reporte, Infografia y Video] (https://github.com/DarozZero/CoronaBot/blob/main/Documentacion/Reporte%2CInfograf%C3%ADa%20y%20Video.md "Reporte, Infografia y Video")
