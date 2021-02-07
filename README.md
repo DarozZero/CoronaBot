@@ -19,18 +19,20 @@ Los usuarios son estudiantes de 18 a 23 años en su mayoria tieniendo exepciones
 ## Indice
 
 
-1.[Objetivos](https://github.com/DarozZero/CoronaBot/blob/main/Documentacion/2.%20Objetivos.md "Objetivos")
+1.[Objetivos.](https://github.com/DarozZero/CoronaBot/blob/main/Documentacion/2.%20Objetivos.md "Objetivos")
 
-2.[Datos de estudio e investigacion](https://github.com/DarozZero/CoronaBot/blob/main/Documentacion/5.%20Datos%20de%20estudio%20e%20investigaci%C3%B3n.md "Datos de estudio e investigacion")
+2.[Datos de estudio e investigacion.](https://github.com/DarozZero/CoronaBot/blob/main/Documentacion/5.%20Datos%20de%20estudio%20e%20investigaci%C3%B3n.md "Datos de estudio e investigacion")
 
-3.[Historias de usuario](https://github.com/DarozZero/CoronaBot/blob/main/Documentacion/7.%20Historias%20de%20Usuario.md "Historias de usuario")
+3.[Historias de usuario.](https://github.com/DarozZero/CoronaBot/blob/main/Documentacion/7.%20Historias%20de%20Usuario.md "Historias de usuario")
 
-5.[Casos de uso](https://github.com/DarozZero/CoronaBot/blob/main/Documentacion/6.%20Casos%20de%20uso.md "Casos de uso")
+5.[Casos de uso.](https://github.com/DarozZero/CoronaBot/blob/main/Documentacion/6.%20Casos%20de%20uso.md "Casos de uso")
 
-4.[Procesos y Roles](https://github.com/DarozZero/CoronaBot/blob/main/Documentacion/3.%20Procesos%20y%20roles.md "Procesos y Roles")
+4.[Procesos y Roles.](https://github.com/DarozZero/CoronaBot/blob/main/Documentacion/3.%20Procesos%20y%20roles.md "Procesos y Roles")
 
-5.[Bitacora](https://github.com/DarozZero/CoronaBot/blob/main/Documentacion/1.%20Bitacora.md "Bitacora")
+5.[Bitacora.](https://github.com/DarozZero/CoronaBot/blob/main/Documentacion/1.%20Bitacora.md "Bitacora")
 
-6.[Prototipo](https://github.com/DarozZero/CoronaBot/blob/main/Documentacion/Prototipo.md "Prototipo")
+6.[Prototipo.](https://github.com/DarozZero/CoronaBot/blob/main/Documentacion/Prototipo.md "Prototipo")
 
-6.[Reporte, Infografia y Video](https://github.com/DarozZero/CoronaBot/blob/main/Documentacion/Reporte%2CInfograf%C3%ADa%20y%20Video.md "Reporte, Infografia y video")
+6.[Recursos de entregas.](https://github.com/DarozZero/CoronaBot/blob/main/Documentacion/Prototipo.md "Prototipo")
+
+8.[Reporte, Infografia y Video.](https://github.com/DarozZero/CoronaBot/blob/main/Documentacion/Reporte%2CInfograf%C3%ADa%20y%20Video.md "Reporte, Infografia y video")
